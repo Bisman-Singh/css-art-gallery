@@ -73,3 +73,5 @@ css-art-gallery/
 ## Usage
 
 Open `index.html` in any modern browser.
+
+<sub><sup>Originally developed and tested locally during learning. Later organized and pushed to GitHub for portfolio visibility.</sup></sub>
